@@ -13,12 +13,3 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
-0000
-
-
-888888888888888
-009999
-;;l
-pppp
-11111111111111111111111111
-77777777777
